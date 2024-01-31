@@ -25,3 +25,4 @@
 24.01.24: Pins gefixt/softwareprobleme behoben.
 25.01.24: bot zum fahren im spielfeld gebracht/ ON/OFF Schalter.
 27.01.24: Dokumentation/Ultraschall Halterung Desing.
+31.01.24: Probleme bei der Hardware gefixt/Ultraschallhalterung 1 gedruckt
