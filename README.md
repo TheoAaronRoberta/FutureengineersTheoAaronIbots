@@ -27,3 +27,4 @@
 27.01.24: Dokumentation/Ultraschall Halterung Desing.
 31.01.24: Probleme bei der Hardware gefixt/Ultraschallhalterung 1 gedruckt
 07.02.24: 3d druck und montage Ultraschall halterungen
+10.02.24: Hub gelötet/planung neue platte
