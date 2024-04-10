@@ -32,4 +32,5 @@
 21.02.24: Hub gelötet/neue Platte & Ultraschallhalter prototyp gedruckt
 28.02.24: platte gedruckt & montiert/Hub montiert
 13.03.24: Ultraschall code gemacht/Ultraschallsensor halterung umdesignt
-03.04.24; Code Gefixt
+03.04.24: Code Gefixt
+10.04.24; Code geschrieben montage 2 ultraschall
