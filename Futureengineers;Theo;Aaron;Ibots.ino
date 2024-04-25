@@ -76,15 +76,3 @@ void loop()
   Serial.print(Differenz);
 
 }
-//digitalWrite(in1, LOW);  
-  //digitalWrite(in2, HIGH);
-
-  // analogWrite(GSM1, 100); //setzt die Geschwindigkeit des Motors auf 80 Umdrehungen (Max 255).
-
-  // delay(900); //Bestimmt die länge der zeit in der der Bot eine Kurve fahren soll.
-
-  // servoblau.write(95);
-
-  // delay(1750); //Bestimmt die länge der Zeit in der der Bot gerdeaus fahren soll.
-
-  // servoblau.write(130);
